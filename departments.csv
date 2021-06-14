@@ -10,19 +10,19 @@ department_id,department_name,manager_id,location_id
 90,Executive,100,1700
 100,Finance,108,1700
 110,Accounting,205,1700
-120,Treasury,,1700
-130,Corporate Tax,,1700
-140,Control And Credit,,1700
-150,Shareholder Services,,1700
-160,Benefits,,1700
-170,Manufacturing,,1700
-180,Construction,,1700
-190,Contracting,,1700
-200,Operations,,1700
-210,IT Support,,1700
-220,NOC,,1700
-230,IT Helpdesk,,1700
-240,Government Sales,,1700
-250,Retail Sales,,1700
-260,Recruiting,,1700
-270,Payroll,,1700
+120,Treasury,100,1700
+130,Corporate Tax,1700
+140,Control And Credit,100,1700
+150,Shareholder Services,200,1700
+160,Benefits,200,1700
+170,Manufacturing,200,1700
+180,Construction,203,1700
+190,Contracting,203,1700
+200,Operations,114,1700
+210,IT Support,100,1700
+220,NOC,114,1700
+230,IT Helpdesk,200,1700
+240,Government Sales,100,1700
+250,Retail Sales,200,1700
+260,Recruiting,201,1700
+270,Payroll,100,1700
